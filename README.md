@@ -20,6 +20,9 @@ As replacement services have been put in place, tools.ietf.org has been configur
 | schedule builder | https://tools.ietf.org/agenda/nnn/calendar | https://datatracker.ietf.org/meeting/nnn/agenda/personalize ||
 | bibxml | https://xml2rfc.tools.ietf.org/public/rfc/bibxml-ids/reference.I-D.example-name.xml | TBD | All of the bibxml datasets will be available|
 | online conversion | https://xml2rfc.tools.ietf.org or https://xml2rfc.tools.ietf.org/experimental.html | https://author-tools.ietf.org | Currently in alpha |
+| idnits | https://tools.ietf.org/tools/idnits/ | https://www.ietf.org/tools/idnits ||
+| rfcdiff | https://tools.ietf.org/rfcdiff | https://www.ietf.org/rfcdiff ||
+| dailydose | https://tools.ietf.org/dailydose/ | TBD ||
 
 ## Work remaining
 - [ ] Replacing the BibXML services at xml2rfc.tools.ietf.org
