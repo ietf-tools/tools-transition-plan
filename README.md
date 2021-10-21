@@ -6,6 +6,8 @@ This page is tracking the current plan to finalize the transition, and will prov
 
 Work is currently underway to replace the BibXML services from xml2rfc.tools.ietf.org, and the online document validation/conversion services.
 
+Anything not discussed on this page is not currently planned to transition. As noted in the announcement, if you are using something at tools.ietf.org and haven't found a replacement for it, let the tools team know. The best way now is to open an issue on this repository. A message to tools-discuss will also work.
+
 ## New service locations
 
 As replacement services have been put in place, tools.ietf.org has been configured to redirect to them. After it is wound down, a redirect service will remain in place.
