@@ -17,6 +17,8 @@ As replacement services have been put in place, tools.ietf.org has been configur
 | htmlized RFCs | https://tools.ietf.org/html/rfcnnnn | https://www.rfc-editor.org/rfc/rfcnnn.html| Preserves #section-n.n anchors |
 | htmlized drafts | https://tools.ietf.org/html/draft-some-name | https://datatracker.ietf.org/doc/html/draft-some-name ||
 | pdfed-htmlized-drafts | https://tools.ietf.org/pdf/draft-some-name | TBD ||
+| plain text of draft | https://tools.ietf.org/id/draft-some-name-with-version | https://www.ietf.org/archive/id/draft-some-name-with-version | Doesn't handle versionless names|
+| 'current' plain text of draft | https://tools.ietf.org/id/draft-some-name | TBD ||
 | group pages | https://tools.ietf.org/wg/acronym | https://datatracker.ietf.org/group/acronym ||
 | meeting agendas | https://tools.ietf.org/agenda/nnn/ | https://datatracker.ietf.org/meeting/nnn/agenda ||
 | schedule builder | https://tools.ietf.org/agenda/nnn/calendar | https://datatracker.ietf.org/meeting/nnn/agenda/personalize ||
@@ -31,4 +33,5 @@ As replacement services have been put in place, tools.ietf.org has been configur
 - [ ] Replacing the document validation and conversion services at xml2rfc.tools.ietf.org
 - [ ] Containerizing dailydose and changing it to depend on the datatracker
 - [ ] pdf-ized views of internet drafts
+- [ ] current text version of internet drafts given a name with no version
 - [ ] replacing the RPC dependence on tools’ wg-contacts.txt
