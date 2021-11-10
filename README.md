@@ -27,6 +27,22 @@ As replacement services have been put in place, tools.ietf.org has been configur
 | idnits | https://tools.ietf.org/tools/idnits/ | https://www.ietf.org/tools/idnits ||
 | rfcdiff | https://tools.ietf.org/rfcdiff | https://www.ietf.org/rfcdiff ||
 | dailydose | https://tools.ietf.org/dailydose/ | TBD ||
+| front page | https://tools.ietf.org | https://authors.ietf.org | New documentation site for authors |
+| vocabulary reference | https://xml2rfc.tools.ietf.org/xml2rfc-doc.html | https://authors.ietf.org ||
+| XML templates | https://tools.ietf.org/tools/templates/ | https://authors.ietf.org ||
+
+## Services that will not be replaced
+
+There are no plans to replace the following services.
+
+| Previous Service | Old Location | Notes |
+| ---------------- | ------------ | ----- |
+| doublespace | https://tools.ietf.org/tools/doublespace/ ||
+| idspell | https://tools.ietf.org/tools/idspell/webservice ||
+| rfcmarkup | https://tools.ietf.org/tools/rfcmarkup/ ||
+| loginmgr | https://tools.ietf.org/tools/loginmgr/newlogin | New services will authenticate via Datatracker if required |
+| idcomments | https://tools.ietf.org/tools/idcomments/ ||
+
 
 ## Work remaining
 - [ ] Replacing the BibXML services at xml2rfc.tools.ietf.org
@@ -35,3 +51,4 @@ As replacement services have been put in place, tools.ietf.org has been configur
 - [ ] pdf-ized views of internet drafts
 - [ ] current text version of internet drafts given a name with no version
 - [ ] replacing the RPC dependence on tools’ wg-contacts.txt
+- [ ] complete new documentation site at authors.ietf.org
