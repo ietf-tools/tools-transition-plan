@@ -31,19 +31,6 @@ As replacement services have been put in place, tools.ietf.org has been configur
 | vocabulary reference | https://xml2rfc.tools.ietf.org/xml2rfc-doc.html | https://authors.ietf.org ||
 | XML templates | https://tools.ietf.org/tools/templates/ | https://authors.ietf.org ||
 
-## Services that will not be replaced
-
-There are no plans to replace the following services.
-
-| Previous Service | Old Location | Notes |
-| ---------------- | ------------ | ----- |
-| doublespace | https://tools.ietf.org/tools/doublespace/ ||
-| idspell | https://tools.ietf.org/tools/idspell/webservice ||
-| rfcmarkup | https://tools.ietf.org/tools/rfcmarkup/ ||
-| loginmgr | https://tools.ietf.org/tools/loginmgr/newlogin | New services will authenticate via Datatracker if required |
-| idcomments | https://tools.ietf.org/tools/idcomments/ ||
-
-
 ## Work remaining
 - [ ] Replacing the BibXML services at xml2rfc.tools.ietf.org
 - [ ] Replacing the document validation and conversion services at xml2rfc.tools.ietf.org
