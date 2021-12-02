@@ -40,5 +40,12 @@ As replacement services have been put in place, tools.ietf.org has been configur
 - [ ] replacing the RPC dependence on tools’ wg-contacts.txt
 - [ ] complete new documentation site at authors.ietf.org
 
-## Services we are not replacing
-- https://tools.ietf.org/tools/citation (see [#5](https://github.com/ietf-tools/tools-transition-plan/issues/5))
+## Services we are not planning to replace
+| Previous Service | Old Location | Notes |
+| ---------------- | ------------ | ----- |
+| citation | https://tools.ietf.org/tools/citation |see [#5](https://github.com/ietf-tools/tools-transition-plan/issues/5)|
+| doublespace | https://tools.ietf.org/tools/doublespace/ ||
+| idspell | https://tools.ietf.org/tools/idspell/webservice ||
+| rfcmarkup | https://tools.ietf.org/tools/rfcmarkup/ ||
+| loginmgr | https://tools.ietf.org/tools/loginmgr/newlogin | New services will authenticate via Datatracker if required |
+| idcomments | https://tools.ietf.org/tools/idcomments/ ||
