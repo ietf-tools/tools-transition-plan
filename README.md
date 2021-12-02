@@ -41,4 +41,4 @@ As replacement services have been put in place, tools.ietf.org has been configur
 - [ ] complete new documentation site at authors.ietf.org
 
 ## Services we are not replacing
-- https://tools.ietf.org/tools/citation (see https://github.com/ietf-tools/tools-transition-plan/issues/5)
+- https://tools.ietf.org/tools/citation (see [#5](https://github.com/ietf-tools/tools-transition-plan/issues/5))
