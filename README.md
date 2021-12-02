@@ -39,3 +39,6 @@ As replacement services have been put in place, tools.ietf.org has been configur
 - [ ] current text version of internet drafts given a name with no version
 - [ ] replacing the RPC dependence on tools’ wg-contacts.txt
 - [ ] complete new documentation site at authors.ietf.org
+
+## Services we are not replacing
+- https://tools.ietf.org/tools/citation (see #5)
