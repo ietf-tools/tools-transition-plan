@@ -32,11 +32,8 @@ As replacement services have been put in place, tools.ietf.org has been configur
 
 ## Work remaining
 - [ ] Replacing the BibXML services at xml2rfc.tools.ietf.org
-- [ ] Replacing the document validation and conversion services at xml2rfc.tools.ietf.org
 - [ ] Replacing dailydose 
 - [ ] replacement for a BAP webservice
-- [ ] replacing the RPC dependence on tools’ wg-contacts.txt
-- [ ] complete new documentation site at authors.ietf.org
 
 ## Services we are not planning to replace
 | Previous Service | Old Location | Notes |
