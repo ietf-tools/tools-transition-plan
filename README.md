@@ -21,8 +21,8 @@ As replacement services have been put in place, tools.ietf.org has been configur
 | group pages | https://tools.ietf.org/wg/acronym | https://datatracker.ietf.org/group/acronym ||
 | meeting agendas | https://tools.ietf.org/agenda/nnn/ | https://datatracker.ietf.org/meeting/nnn/agenda ||
 | schedule builder | https://tools.ietf.org/agenda/nnn/calendar | https://datatracker.ietf.org/meeting/nnn/agenda/personalize ||
-| bibxml | https://xml2rfc.tools.ietf.org/public/rfc/bibxml-ids/reference.I-D.example-name.xml | TBD | All of the bibxml datasets will be available|
-| online conversion | https://xml2rfc.tools.ietf.org or https://xml2rfc.tools.ietf.org/experimental.html | https://author-tools.ietf.org | Currently in alpha |
+| bibxml | https://xml2rfc.tools.ietf.org/public/rfc/bibxml-ids/reference.I-D.example-name.xml | https://bib.ietf.org | All of the bibxml datasets will be available|
+| online conversion | https://xml2rfc.tools.ietf.org or https://xml2rfc.tools.ietf.org/experimental.html | https://author-tools.ietf.org ||
 | idnits | https://tools.ietf.org/tools/idnits/ | https://www.ietf.org/tools/idnits ||
 | rfcdiff | https://tools.ietf.org/rfcdiff | https://www.ietf.org/rfcdiff ||
 | dailydose | https://tools.ietf.org/dailydose/ | TBD ||
