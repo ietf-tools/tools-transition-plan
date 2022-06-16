@@ -31,7 +31,6 @@ As replacement services have been put in place, tools.ietf.org has been configur
 | XML templates | https://tools.ietf.org/tools/templates/ | https://authors.ietf.org ||
 
 ## Work remaining
-- [ ] Replacing the BibXML services at xml2rfc.tools.ietf.org
 - [ ] Replacing dailydose 
 - [ ] replacement for a BAP webservice
 
@@ -41,6 +40,6 @@ As replacement services have been put in place, tools.ietf.org has been configur
 | citation | https://tools.ietf.org/tools/citation |see [#5](https://github.com/ietf-tools/tools-transition-plan/issues/5)|
 | doublespace | https://tools.ietf.org/tools/doublespace/ ||
 | idspell | https://tools.ietf.org/tools/idspell/webservice ||
-| rfcmarkup | https://tools.ietf.org/tools/rfcmarkup/ ||
+| rfcmarkup | https://tools.ietf.org/tools/rfcmarkup/ | Consider https://github,com/ietf-tools/rfc2html |
 | loginmgr | https://tools.ietf.org/tools/loginmgr/newlogin | New services will authenticate via Datatracker if required |
 | idcomments | https://tools.ietf.org/tools/idcomments/ ||
