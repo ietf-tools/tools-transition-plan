@@ -1,6 +1,6 @@
 # Transition from tools.ietf.org
 
-We announced on March 2021, that tools.ietf.org would be wound down. [See the announcement here.](https://mailarchive.ietf.org/arch/msg/ietf/0n-6EXEmkTp3Uv_vj-5Vnm3o0bo/). That effort is now complete.
+We announced on March 2021, that tools.ietf.org would be wound down. [See the announcement here.](https://mailarchive.ietf.org/arch/msg/ietf/0n-6EXEmkTp3Uv_vj-5Vnm3o0bo/) That effort is now complete.
 
 This page documents the changes in the transition, and will provide help for others migrating to the new locations of various services. It also captures what was explicitly not transitioned, and will track the few services that we plan to transition but have deferred.
 
