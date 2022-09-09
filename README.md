@@ -1,16 +1,13 @@
 # Transition from tools.ietf.org
 
-As announced March 2021, tools.ietf.org is being wound down. [See the announcement here.](https://mailarchive.ietf.org/arch/msg/ietf/0n-6EXEmkTp3Uv_vj-5Vnm3o0bo/)
+We announced on March 2021, that tools.ietf.org would be wound down. [See the announcement here.](https://mailarchive.ietf.org/arch/msg/ietf/0n-6EXEmkTp3Uv_vj-5Vnm3o0bo/). That effort is now complete.
 
-This page is tracking the current plan to finalize the transition, and will provide help for others migrating to the new locations of various services.
+This page documents the changes in the transition, and will provide help for others migrating to the new locations of various services. It also captures what was explicitly not transitioned, and will track the few services that we plan to transition but have deferred.
 
-Work is currently underway to replace the BibXML services from xml2rfc.tools.ietf.org, and the online document validation/conversion services.
-
-Anything not discussed on this page is not currently planned to transition. As noted in the announcement, if you are using something at tools.ietf.org and haven't found a replacement for it, let the tools team know. The best way now is to open an issue on this repository. A message to tools-discuss will also work.
+Anything not discussed on this page was not included in the transition. If you had been using something at tools.ietf.org and haven't found a replacement for it, let the tools team know. The best way now is to open an issue on this repository. A message to tools-discuss will also work.
 
 ## New service locations
 
-As replacement services have been put in place, tools.ietf.org has been configured to redirect to them. After it is wound down, a redirect service will remain in place.
 
 | Previous Service | Old Location | New Location | Notes |
 | -----------------|--------------|--------------|-------|
@@ -21,7 +18,7 @@ As replacement services have been put in place, tools.ietf.org has been configur
 | group pages | https://tools.ietf.org/wg/acronym | https://datatracker.ietf.org/group/acronym ||
 | meeting agendas | https://tools.ietf.org/agenda/nnn/ | https://datatracker.ietf.org/meeting/nnn/agenda ||
 | schedule builder | https://tools.ietf.org/agenda/nnn/calendar | https://datatracker.ietf.org/meeting/nnn/agenda/personalize ||
-| bibxml | https://xml2rfc.tools.ietf.org/public/rfc/bibxml-ids/reference.I-D.example-name.xml | https://bib.ietf.org | All of the bibxml datasets will be available|
+| bibxml | https://xml2rfc.tools.ietf.org/public/rfc/bibxml-ids/reference.I-D.example-name.xml | https://bib.ietf.org ||
 | online conversion | https://xml2rfc.tools.ietf.org or https://xml2rfc.tools.ietf.org/experimental.html | https://author-tools.ietf.org ||
 | idnits | https://tools.ietf.org/tools/idnits/ | https://www.ietf.org/tools/idnits ||
 | rfcdiff | https://tools.ietf.org/rfcdiff | https://www.ietf.org/rfcdiff ||
@@ -32,7 +29,6 @@ As replacement services have been put in place, tools.ietf.org has been configur
 
 ## Work remaining
 - [ ] Replacing dailydose 
-- [ ] replacement for a BAP webservice
 
 ## Services we are not planning to replace
 | Previous Service | Old Location | Notes |
