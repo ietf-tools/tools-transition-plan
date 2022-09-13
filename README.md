@@ -20,12 +20,14 @@ Anything not discussed on this page was not included in the transition. If you h
 | schedule builder | https://tools.ietf.org/agenda/nnn/calendar | https://datatracker.ietf.org/meeting/nnn/agenda/personalize ||
 | bibxml | https://xml2rfc.tools.ietf.org/public/rfc/bibxml-ids/reference.I-D.example-name.xml | https://bib.ietf.org ||
 | online conversion | https://xml2rfc.tools.ietf.org or https://xml2rfc.tools.ietf.org/experimental.html | https://author-tools.ietf.org ||
-| idnits | https://tools.ietf.org/tools/idnits/ | https://www.ietf.org/tools/idnits ||
+| idnits | https://tools.ietf.org/tools/idnits/ | https://author-tools.ietf.org/ https://author-tools.ietf.org/idnits | Use **Validate (idnits)** button on author tools. |
 | rfcdiff | https://tools.ietf.org/rfcdiff | https://www.ietf.org/rfcdiff ||
 | dailydose | https://tools.ietf.org/dailydose/ | TBD ||
 | front page | https://tools.ietf.org | https://authors.ietf.org | New documentation site for authors |
 | vocabulary reference | https://xml2rfc.tools.ietf.org/xml2rfc-doc.html | https://authors.ietf.org ||
 | XML templates | https://tools.ietf.org/tools/templates/ | https://authors.ietf.org ||
+| BAP (ABNF tools) | https://tools.ietf.org/tools/bap | https://author-tools.ietf.org/abnf | |
+| svgcheck | https://xml2rfc.tools.ietf.org/experimental.html#svg12checker | https://author-tools.ietf.org/svgcheck | |
 
 ## Work remaining
 - [ ] Replacing dailydose 
